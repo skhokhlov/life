@@ -14,9 +14,11 @@ Sergey Khokhlov's life
 - 10/2008-~ World Fly
 - 07/2010 Second trip to Egypt
 - 12/2010 Acer laptop
+- ~2011 Ubuntu
 - 03/2012 First Mac
 - 04/2012 First trip to Europe (Austria, Germany, Czech)
 - 07/2012 Trip to Montengro
+- 07/2012 node.js
 - 05/08/2014-13/08/2014 Secont trip to Austria
 - 01/09/2014-~ University
 - 01/02/2016-07/02/2016 Trip to Crimea
