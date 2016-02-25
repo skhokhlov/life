@@ -3,6 +3,7 @@ Sergey Khokhlov's life
 
 - 10/02/1997 Born
 - ~2000 Transfer
+- 08/2003 First trip to Crimea
 - 01/09/2003-31.05.2014 School
 - 08/2005 First computer
 - 11/2006 First flight
@@ -14,12 +15,20 @@ Sergey Khokhlov's life
 - 10/2008-~ World Fly
 - 07/2010 Second trip to Egypt
 - 12/2010 Acer laptop
+- 07/2011 First iPad
+- 08/2011 Samsung Galaxy Tab
 - ~2011 Ubuntu
+- 12/2011 Second iPad
 - 03/2012 First Mac
 - 04/2012 First trip to Europe (Austria, Germany, Czech)
 - 07/2012 Trip to Montengro
 - 07/2012 node.js
+- 07/02/2014 First iPhone
+- 06/2014 Trip to Kaluga
 - 05/08/2014-13/08/2014 Secont trip to Austria
 - 01/09/2014-~ University
+- 04/2015 First roof
+- 06/2015 First post on Ello
+- 08/2015 The crash of worldview
 - 01/02/2016-07/02/2016 Trip to Crimea
-- 02/2016 Mac laptop
+- 11/02/2016 First MacBook
