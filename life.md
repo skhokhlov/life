@@ -18,15 +18,21 @@ Sergey Khokhlov's life
 - 07/2011 First iPad
 - 08/2011 Samsung Galaxy Tab
 - ~2011 Ubuntu
+- 10/2011 First trip to Kiev
 - 12/2011 Second iPad
+- 03/2012 First post on Instagram
+- 05/03/2012 Join to GitHub
 - 03/2012 First Mac
 - 04/2012 First trip to Europe (Austria, Germany, Czech)
 - 07/2012 Trip to Montengro
 - 07/2012 node.js
+- 07/2013 Cubieboard
+- 10/2013 Second trip to Kiev
 - 07/02/2014 First iPhone
 - 06/2014 Trip to Kaluga
 - 05/08/2014-13/08/2014 Secont trip to Austria
 - 01/09/2014-~ University
+- 02/2014 RaspberryPi
 - 04/2015 First roof
 - 06/2015 First post on Ello
 - 08/2015 The crash of worldview
