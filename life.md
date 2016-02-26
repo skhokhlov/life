@@ -17,7 +17,7 @@ Sergey Khokhlov's life
 - 12/2010 Acer laptop
 - 07/2011 First iPad
 - 08/2011 Samsung Galaxy Tab
-- ~2011 Ubuntu
+- 11/2011 Ubuntu
 - 10/2011 First trip to Kiev
 - 12/2011 Second iPad
 - 03/2012 First post on Instagram
@@ -32,7 +32,7 @@ Sergey Khokhlov's life
 - 06/2014 Trip to Kaluga
 - 05/08/2014-13/08/2014 Secont trip to Austria
 - 01/09/2014-~ University
-- 02/2014 RaspberryPi
+- 02/2015 RaspberryPi
 - 04/2015 First roof
 - 06/2015 First post on Ello
 - 08/2015 The crash of worldview
