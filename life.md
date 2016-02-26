@@ -4,7 +4,7 @@ Sergey Khokhlov's life
 - 10/02/1997 Born
 - ~2000 Transfer
 - 08/2003 First trip to Crimea
-- 01/09/2003-31.05.2014 School
+- 01/09/2003-31/05/2014 School
 - 08/2005 First computer
 - 11/2006 First flight
 - 11/2006 First trip to Egypt
