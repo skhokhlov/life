@@ -35,6 +35,6 @@ Sergey Khokhlov's life
 - 02/2015 RaspberryPi
 - 04/2015 First roof
 - 06/2015 First post on Ello
-- 08/2015 The crash of worldview
+- 08/2015 Crash of the game
 - 01/02/2016-07/02/2016 Trip to Crimea
 - 11/02/2016 First MacBook
