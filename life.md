@@ -17,8 +17,8 @@ Sergey Khokhlov's life
 - 12/2010 Acer laptop
 - 07/2011 First iPad
 - 08/2011 Samsung Galaxy Tab
-- 11/2011 Ubuntu
 - 10/2011 First trip to Kiev
+- 11/2011-11/02/2016 Ubuntu
 - 12/2011 Second iPad
 - 03/2012 First post on Instagram
 - 05/03/2012 Join to GitHub
