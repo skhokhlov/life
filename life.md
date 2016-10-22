@@ -38,3 +38,5 @@ Sergey Khokhlov's life
 - 08/2015 Crash of the game
 - 01/02/2016-07/02/2016 Trip to Crimea
 - 11/02/2016 First MacBook
+- 01/07/2016 First time in summer camp
+- 16/07/2016-06/18/2016 Work in summer camp
